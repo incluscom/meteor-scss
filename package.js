@@ -13,7 +13,7 @@ Package.registerBuildPlugin({
   ],
   sources: ['plugin/compile-scss.js'],
   npmDependencies: {
-    "node-sass": '9.0.0',
+    'sass': '1.77.8',
     "@babel/runtime": "7.24.5"
   }
 })
